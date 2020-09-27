@@ -1,0 +1,14 @@
+body{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	background-image: url();
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.center-div{
+	margin: 0 auto;
+	width: 50%;
+}
